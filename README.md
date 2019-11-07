@@ -1,2 +1,2 @@
-# OS-_elf-made
+# OS-self-made
 30日でできるOS自作入門
